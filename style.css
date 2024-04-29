@@ -94,7 +94,7 @@ img:hover {
   max-width: 90%; /* 宽度最大占80% */
   margin: 2% auto; /* 顶部和底部的间距设置为2% */
   padding: 2%; /* 内边距使用百分比，取决于父元素的宽度 */
-  background-color: #6fcbda;
+  background-color: #3c54a2;
   border-radius: 0; /* 使用直角 */
   border: 5px solid #231f20;
 }
